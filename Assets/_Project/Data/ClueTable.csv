@@ -1,0 +1,10 @@
+clueId,dollId,channel,unlockCondition,noteText
+CLUE_RABBIT_SIGHT,RABBIT,SIGHT,INSPECT,진열장 천이 반듯하게 잘려 있다. 손끝이 날붙이다.
+CLUE_RABBIT_SOUND,RABBIT,SOUND,CCTV_STAGE2,금속이 스치는 소리가 가까워진다.
+CLUE_RABBIT_TRACE,RABBIT,TRACE,ANOMALY_RESOLVED,잘린 실밥이 문 앞까지 이어져 있다. 실로 손을 묶으면 멈춘다.
+CLUE_OCTO_SIGHT,OCTOPUS,SIGHT,INSPECT,몸통에서 실이 끝없이 풀려 나온다.
+CLUE_OCTO_SOUND,OCTOPUS,SOUND,CCTV_STAGE2,바닥에 실이 끌리는 소리가 난다.
+CLUE_OCTO_TRACE,OCTOPUS,TRACE,ANOMALY_RESOLVED,실은 가위로만 끊긴다. 미리 챙겨 두어야 한다.
+CLUE_BEAR_SIGHT,BEAR,SIGHT,INSPECT,앞발에 칼자국이 남아 있다.
+CLUE_BEAR_SOUND,BEAR,SOUND,CCTV_STAGE2,무거운 것이 바닥을 끄는 소리.
+CLUE_BEAR_TRACE,BEAR,TRACE,ANOMALY_RESOLVED,칼꽂이가 비면 빨라진다. 칼을 먼저 치워야 한다.

@@ -1,0 +1,10 @@
+key,value
+maxSanity,100
+drainPerTick,1
+anomalyMissPenalty,15
+doorStagePenalty,8
+counterFailPenalty,20
+repairBonus,3
+faintJumpTick,4
+faintRestore,50
+faintLimit,3

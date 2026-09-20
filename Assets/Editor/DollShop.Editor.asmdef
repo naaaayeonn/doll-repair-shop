@@ -1,0 +1,14 @@
+{
+    "name": "DollShop.Editor",
+    "rootNamespace": "DollShop.Editor",
+    "references": ["DollShop.Core"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
