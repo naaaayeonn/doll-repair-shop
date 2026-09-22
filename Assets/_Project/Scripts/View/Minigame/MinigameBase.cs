@@ -10,7 +10,7 @@ namespace DollShop.View
         // ── 상태 ──────────────────────────────────────────────
         protected bool  IsActive   { get; private set; } = false;
         protected float ElapsedSec { get; private set; } = 0f;
-        protected float Accuracy   { get; protected set; } = 100f;
+        protected float Accuracy   { get; set; } = 100f;
 
         protected OrderId _orderId;
 

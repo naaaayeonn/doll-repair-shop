@@ -11,7 +11,7 @@ namespace DollShop.View
         private void OnEnable()
         {
             DayTimer.OnTick               += UpdateTension;
-            SanitySystem.OnChanged        += _ => UpdateTension(DayTimer.CurrentTick);
+            SanitySystem.OnChanged        += (_, __) => UpdateTension(DayTimer.CurrentTick);
             DollRuleSystem.OnStageChanged += (_, __) => UpdateTension(DayTimer.CurrentTick);
         }
 

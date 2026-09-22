@@ -1,7 +1,7 @@
 {
     "name": "DollShop.View",
     "rootNamespace": "DollShop.View",
-    "references": ["DollShop.Core"],
+    "references": ["DollShop.Core", "Unity.TextMeshPro", "Unity.RenderPipelines.Core.Runtime", "Unity.RenderPipelines.Universal.Runtime"],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
